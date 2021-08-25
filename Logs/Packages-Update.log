@@ -1,0 +1,13 @@
+
+=== Mon Aug 23 18:25:31 2021
+
+Packages were changed.
+Update Mode: updateDependencies
+
+The following packages were updated:
+  com.unity.ide.rider from version 3.0.4 to 3.0.7
+  com.unity.ide.visualstudio from version 2.0.7 to 2.0.9
+  com.unity.inputsystem from version 1.0.2 to 1.1.0-pre.5
+  com.unity.xr.arcore from version 4.1.5 to 4.2.0-pre.5
+  com.unity.xr.arfoundation from version 4.1.5 to 4.2.0-pre.5
+  com.unity.xr.arkit from version 4.1.5 to 4.2.0-pre.4
